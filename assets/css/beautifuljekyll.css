@@ -5,11 +5,10 @@ layout: null
 @import url("pygment_highlights.css");
 @font-face {
     font-family: 'ridiBatang';
-    src: url('ridibatang.woff2') format('woff2'),
-         url('ridibatang.woff') format('woff');
+    src: url('/assets/font/ridibatang.woff2') format('woff2'),
+         url('/assets/font/ridibatang.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 /* --- General --- */

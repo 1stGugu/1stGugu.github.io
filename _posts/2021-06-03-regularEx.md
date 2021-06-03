@@ -2,28 +2,20 @@
 layout: post
 title: 정규 표현식 pattern
 subtitle: 정규 표현식의 패턴을 정리해보자
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star]
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star]
 tags: [dev]
 comments: true
 ---
 
 **html 태그 제거 정규식**
-
 ```javascript
 var str;
 str.replace(/<(\/)?([a-zA-Z0-9]*)(\s[a-zA-Z]*=[^>]*)?(\s)*(\/)?>/g, "");
 ```
 
-## Heaging
-탭 제거 정규식
-
+**탭 제거 정규식**
 ```javascript
 var str;
 str.replace(/\t/g, '');
 ```
-
-### Notification
-
-{: .box-note}
-**Note:** 인용같은데

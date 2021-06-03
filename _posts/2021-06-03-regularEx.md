@@ -3,7 +3,7 @@ layout: post
 title: 정규 표현식 pattern
 subtitle: 정규 표현식의 패턴을 정리해보자
 cover-img: /assets/img/path.jpg
-thumbnail-img: 
+thumbnail-img: ''
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star]
 tags: [dev]

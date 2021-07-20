@@ -15,9 +15,9 @@ comments: true
 
 
 {: .box-note}
-lower_case_table_names = 0  :  테이블 생성 및 조회 시 대·소문자 구분한다.
-lower_case_table_names = 1  :  입력 값이 대·소문자든 소문자로 인식 소문자 인식 파일 생성
-lower_case_table_names = 2  :  윈도우에서 대·소문자를 구분해서 테이블생성  
+lower_case_table_names = 0  // 테이블 생성 및 조회 시 대·소문자 구분한다.
+lower_case_table_names = 1  // 입력 값이 대·소문자든 소문자로 인식 소문자 인식 파일 생성
+lower_case_table_names = 2  // 윈도우에서 대·소문자를 구분해서 테이블생성  
 
 기본값
 리눅스, 유닉스 : 0
